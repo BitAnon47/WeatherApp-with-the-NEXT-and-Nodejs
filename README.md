@@ -2,7 +2,9 @@
 
 A modern, responsive weather application built with Next.js and Node.js that provides real-time weather information for cities worldwide.
 
-![Weather Dashboard Screenshot](screenshots/weather-dashboard.png)
+<div align="center">
+  <img src="screenshots/Weatherapp.png" alt="Weather Dashboard Screenshot" width="800"/>
+</div>
 
 ## Features
 
